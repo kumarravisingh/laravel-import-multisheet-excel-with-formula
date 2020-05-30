@@ -46,7 +46,7 @@ class BooksDataTable extends DataTable
                     ->parameters([
                         'lengthMenu' => [
                             [ 05, 10, 15, -1 ],
-                            [ '10 rows', '25 rows', '50 rows', 'Show all' ]
+                            [ '05 rows', '10 rows', '15 rows', 'Show all' ]
                         ],
                         'order'   => [[0, 'desc']]
                     ]);
