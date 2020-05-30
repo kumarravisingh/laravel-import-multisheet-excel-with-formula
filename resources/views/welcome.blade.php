@@ -65,8 +65,11 @@
                                 {{@csrf_field()}}
                                 <div class="row">
                                     <div class="col-md-12">
-                                        <div class="md-form">
-                                            <input type="file" id="books-data-file" name="books-data-file" class="form-control"/>
+                                        <div class="input-group mb-3">
+                                            <div class="custom-file">
+                                                <input type="file" class="custom-file-input" id="inputGroupFile03" name="books-data-file">
+                                                <label class="custom-file-label" for="inputGroupFile03">Choose file</label>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
