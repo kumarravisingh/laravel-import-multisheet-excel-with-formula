@@ -72,7 +72,7 @@
                                 </div>
                             </form>
                             <div class="text-center text-md-center">
-                                <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Import</a>
+                                <a class="btn btn-primary" style="color:#ffffff" onclick="document.getElementById('contact-form').submit();">Import</a>
                             </div>
                             <div class="status"></div>
                         </div>
