@@ -101,5 +101,10 @@
         <script src="{{ asset('vendor/datatables/buttons.server-side.js') }}"></script>
         @stack('scripts')
         {{$dataTable->scripts()}}
+        <style>
+            #books-table_length{
+                text-align: left;
+            }
+        </style>
     </body>
 </html>
