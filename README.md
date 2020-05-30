@@ -25,7 +25,7 @@ Following are commands to install and run the demo on your local computer
 - Click import
 
 ## Testing The Demo
-There is a demo file book.xlsx file included in project root for you to import and analyse.
+There is a demo file book.xlsx included in project root for you to import and analyse.
 
 - This file has two sheets **Books and Sales** 
   1.  **Books Sheet:** Contains the book details.
