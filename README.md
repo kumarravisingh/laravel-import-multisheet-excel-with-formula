@@ -34,7 +34,7 @@ There is a demo file book.xlsx included in project root for you to import and an
 
 ## Possible Known Issue
 
-- The pattern of declaration of sheets in your UsersImport file should bye your sheet containing formula first and then your sheet containing dependent data for the formula. In this demo case that pattern is
+- The pattern of declaration of sheets in your UsersImport file should be, first your sheet containing formula and then your sheet containing dependent data for the formula. In this demo case that pattern is
   Sales sheet first then the Books sheet.  
   `'Sales' => new SalesSheetImport(),`  
     `'Books' => new BookSheetImport(),`  
