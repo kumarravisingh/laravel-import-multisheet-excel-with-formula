@@ -2,6 +2,8 @@
 
 Laravel multisheet is a demo application to display how we can import excel file with  multiple sheet and formula using [Laravel Excel](https://laravel-excel.com/). We have also used [yajra datatables](https://datatables.yajrabox.com/) to display back the imported data.
 
+<img src="https://github.com/kumarravisingh/laravel-import-multisheet-excel-with-formula/blob/master/multisheet.png" height="200" width="400">
+
 ## Prerequisites
 I am assuming you have basic knowledge of the laravel ecosystem and, you can install/run a demo laravel application.
 - composer
